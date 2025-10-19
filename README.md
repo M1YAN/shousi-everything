@@ -17,7 +17,7 @@
   - [手撕 DPO](./reinforcement_learning.ipynb)
   - [手撕 GRPO](./reinforcement_learning.ipynb)
 
-# 手撕 Recommender System
+## 手撕 Recommender System
 
 - 手撕序列推荐
   - [手撕 DIN](./sequential_rec.ipynb)
